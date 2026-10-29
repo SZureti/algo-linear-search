@@ -16,5 +16,4 @@ function globalLinearSearch(searchTerm, arr) {
   }
   return indices;
 }
-
 module.exports = { linearSearch, globalLinearSearch };

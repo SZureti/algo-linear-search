@@ -27,3 +27,5 @@ describe("tests globalLinearSearch", () => {
     expect(globalLinearSearch("n", "bananas".split(""))).toEqual([2, 4]);
   });
 });
+
+console.log("All tests completed.");
